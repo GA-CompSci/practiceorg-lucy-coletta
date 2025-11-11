@@ -31,3 +31,6 @@ body {
     font-weight: 400;
     letter-spacing: 0;
 }
+.theme-color-spring-red .text-color-theme {
+    color: #004071;
+}

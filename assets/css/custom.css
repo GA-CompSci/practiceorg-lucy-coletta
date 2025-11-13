@@ -34,3 +34,8 @@ body {
 .theme-color-spring-red .text-color-theme {
     color: #004071;
 }
+.button-circle.button-circle-dark {
+    background: #004071;
+    border: 0;
+    color: white;
+}
